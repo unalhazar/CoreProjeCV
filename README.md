@@ -1,1 +1,2 @@
 "# CoreProjeCV" 
+"# deneme" 
